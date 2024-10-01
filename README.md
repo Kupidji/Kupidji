@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there, I'm Kirill 👋
 
-<!--
-**Kupidji/Kupidji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **About me**:
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=5000&color=53F783&width=1000&height=25&lines=Android+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=5000&color=FFFFFF&width=1000&height=25&lines=Student+of+Perm+State+University)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=5000&color=FFFFFF&width=1000&height=25&lines=Always+learning,+always+trying+my+best)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗺️ **My stack (Android)**:
+- 📢 **Languages**: `Kotlin`, a litle `Java`
+- 🖼️ **UI**: `Compose`, `XML`
+- 🪜 **Architecture Patterns**: `MVVM`, `MVI (Orbit)`
+- 🗄️ **DB**: `Room`
+- 🌐 **Requests**: `Retrofit`, `OkHttp`, `Json`
+-  ⇢ **Async**: `Coroutines`
+- 📚 **DI**: `Dagger-Hilt`
+- 🛠️ **Other**: `CameraX`, `Coil`, `Jetpack-navigation`
