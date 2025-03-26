@@ -8,10 +8,11 @@
 
 🗺️ **My stack (Android)**:
 - 📢 **Languages**: `Kotlin`, a litle `Java`
-- 🖼️ **UI**: `Compose`, `XML`
-- 🪜 **Architecture Patterns**: `MVVM`, `MVI (Orbit)`
-- 🗄️ **DB**: `Room`
-- 🌐 **Requests**: `Retrofit`, `OkHttp`, `Json`
--  ⇢ **Async**: `Coroutines`
+- 🖼️ **UI**: `Compose`, `XML`, `Coil`, `Paging3`
+- 🪜 **Architecture**: `Clean Architecture`, `Multi-module`, `SOLID`, `DRY`, `KISS`
+- 🪜 **Patterns**: `MVVM`, `MVI`
+- 🗄️ **DB**: `Room`, `SQLite`
+- 🌐 **Requests**: `Retrofit2`, `OkHttp3`, `Json`, `Kotlin-Serialization`
+-  ⇢ **Async**: `Kotlin-Coroutines`, `Flow`
 - 📚 **DI**: `Dagger-Hilt`
-- 🛠️ **Other**: `CameraX`, `Coil`, `Jetpack-navigation`
+- 🛠️ **Other**: `CameraX`, `Jetpack-navigation`
